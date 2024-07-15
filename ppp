@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assam Tourism</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        header, nav, section, footer {
+            padding: 20px;
+            margin: 10px 0;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        section {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-top: 10px;
+        }
+        section img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            background: #ddd;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Assam Tourism</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Assam</a></li>
+                <li><a href="#destinations">Destinations</a></li>
+                <li><a href="#culture">Culture</a></li>
+                <li><a href="#cuisine">Cuisine</a></li>
+                <li><a href="#festivals">Festivals</a></li>
+                <li><a href="#wildlife">Wildlife</a></li>
+                <li><a href="#adventure">Adventure</a></li>
+                <li><a href="#accommodation">Accommodation</a></li>
+                <li><a href="#travel-tips">Travel Tips</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Home</h2>
+        <p>Welcome to Assam, a land of rich culture, diverse wildlife, and breathtaking landscapes. Explore our site to learn more about what Assam has to offer! Discover the unique blend of tradition and modernity, from the bustling city of Guwahati to the serene tea gardens of the Brahmaputra Valley.</p>
+        <img src="https://www.adotrip.com/public/images/city/master_images/5eb257ab30134-Dispur_Attractions.jpg" alt="Dispur">
+    </section>
+
+    <section id="about">
+        <h2>About Assam</h2>
+        <p>Assam is a state in northeastern India known for its wildlife, archeological sites, and tea plantations. Assam is home to the one-horned rhinoceros and is a biodiversity hotspot with a rich variety of flora and fauna. The state is also renowned for its silk, particularly Muga and Eri silk, which are unique to this region.</p>
+        <p>The state's history is marked by the Ahom Dynasty, which ruled Assam for over six centuries and left a lasting cultural legacy. The Brahmaputra River, one of the major rivers of the world, flows through the state, providing life and beauty to the region.</p>
+        <img src="https://tripsonwheels.com/wp-content/uploads/2020/06/5.DARANG.jpg" alt="Darang">
+    </section>
+
+    <section id="destinations">
+        <h2>Destinations</h2>
+        <h3>Guwahati</h3>
+        <p>Guwahati, the largest city in Assam, is known for its ancient temples, including the Kamakhya Temple, one of the oldest Shakti Peethas. The city is a gateway to the northeastern states and offers a blend of modernity and tradition. Don't miss a visit to the Assam State Museum and the beautiful Brahmaputra River waterfront.</p>
+        <h3>Kaziranga National Park</h3>
+        <p>Home to the one-horned rhinoceros, Kaziranga National Park is a UNESCO World Heritage site. It is one of the last strongholds of this endangered species and offers thrilling jeep and elephant safaris. The park is also home to tigers, elephants, and a variety of bird species, making it a paradise for wildlife enthusiasts.</p>
+        <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2016/08/KazirangaNationalPark_PTI.jpg" alt="Kaziranga National Park">
+        <h3>Majuli Island</h3>
+        <p>Majuli is the world's largest river island and a cultural hotspot for the Assamese people. It is known for its vibrant festivals, monasteries called Satras, and traditional craft making. The island is also a haven for bird watchers and nature lovers, offering a peaceful retreat from the hustle and bustle of city life.</p>
+        <img src="https://th.bing.com/th/id/R.2548bc3321ac19e2c799f7a6970cbf8b?rik=Mxgvftw6wFZnRA&riu=http%3a%2f%2fwww.indiatravelblog.com%2fattachments%2fResources%2f3730-6-Majuli-Best-Tourist-Place-in-Assam.jpg&ehk=zl0Q0HsMIqw4SV7yyEwdv8DEAgFQ%2bGeZexpjpmugXhc%3d&risl=&pid=ImgRaw&r=0" alt="Majuli">
+        <h3>Sivasagar</h3>
+        <p>Sivasagar, once the capital of the Ahom Kingdom, is rich in historical monuments such as the Rang Ghar, Talatal Ghar, and the Sivasagar Sivadol. These structures reflect the architectural brilliance of the Ahoms and are must-visit sites for history buffs.</p>
+        <img src="https://4.bp.blogspot.com/-Y29-yGCvYP8/U5Gv7bG8DFI/AAAAAAAAAOM/euT6fWg-wQ4/s1600/siva-sagar-assam-india.JPG" alt="Sivasagar">
+    </section>
+
+    <section id="culture">
+        <h2>Culture</h2>
+        <p>Assamese culture is a fusion of heritage from the Ahom kingdom, along with influences from neighboring regions. It includes classical dances like Sattriya, vibrant festivals, and traditional crafts. The state is known for its music, literature, and the traditional Bihu dance, which is performed during the Bihu festival.</p>
+        <p>Handicrafts such as bamboo and cane products, handloom weaving, and pottery are integral parts of Assamese culture. The Assamese people are known for their hospitality and warmth, making visitors feel welcome and at home.</p>
+        <img src="https://i.pinimg.com/originals/d7/c0/8f/d7c08f672cac76b53a99679f38bd81fd.jpg" alt="Sattriya Dance">
+    </section>
+
+    <section id="cuisine">
+        <h2>Cuisine</h2>
+        <p>Assamese cuisine is characterized by its simplicity and the use of natural ingredients. Popular dishes include Assam Laksa, Fish Tenga (a tangy fish curry), and Pitha (rice cakes). The cuisine often features rice as a staple, accompanied by a variety of side dishes made from fish, meat, and vegetables.</p>
+        <p>Tea is an essential part of Assamese culture, with Assam being one of the largest tea-producing regions in the world. A visit to Assam is incomplete without experiencing a traditional Assamese thali, which offers a complete meal with a variety of flavors and textures.</p>
+    </section>
+
+    <section id="festivals">
+        <h2>Festivals</h2>
+        <p>Bihu is the most important festival in Assam, celebrated with dance, music, and feasting. There are three Bihu festivals: Rongali or Bohag Bihu, celebrated in April to mark the Assamese New Year; Kongali or Kati Bihu, celebrated in October for a good harvest; and Bhogali or Magh Bihu, celebrated in January to mark the end of the harvest season.</p>
+        <p>Other notable festivals include Durga Puja, observed with much fervor in the state, and Ambubachi Mela, held at the Kamakhya Temple in Guwahati, which attracts thousands of devotees from all over the country.</p>
+        <img src="https://assamtouristspots.wordpress.com/wp-content/uploads/2013/01/bihu-festival-assam-tourist-spots.jpg" alt="Bihu Festival">
+    </section>
+
+    <section id="wildlife">
+        <h2>Wildlife</h2>
+        <p>Assam is home to a variety of wildlife, including the famous one-horned rhinoceros, tigers, elephants, and various species of birds and reptiles. Key wildlife sanctuaries include Kaziranga National Park and Manas National Park, both UNESCO World Heritage sites.</p>
+        <p>The state also boasts other wildlife sanctuaries such as Dibru-Saikhowa National Park, known for its feral horses, and Nameri National Park, which offers exciting opportunities for bird watching and river rafting.</p>
+    </section>
+
+    <section id="adventure">
+        <h2>Adventure</h2>
+        <p>Assam offers numerous adventure activities such as river rafting, trekking, and wildlife safaris. The Brahmaputra River provides thrilling opportunities for river rafting, especially during the monsoon season. The state's hilly terrain and dense forests make it ideal for trekking and camping.</p>
+        <p>Wildlife safaris in Kaziranga and Manas National Parks offer an exhilarating experience of encountering wildlife up close. For those interested in bird watching, Assam is a paradise with its diverse avian population.</p>
+        <img src="https://4.bp.blogspot.com/-Y29-yGCvYP8/U5Gv7bG8DFI/AAAAAAAAAOM/euT6fWg-wQ4/s1600/siva-sagar-assam-india.JPG" alt="Sivasagar">
+    </section>
+
+    <section id="accommodation">
+        <h2>Accommodation</h2>
+        <p>Assam has a range of accommodation options from luxury hotels to budget lodges. Popular places to stay include the Radisson Blu in Guwahati, which offers modern amenities and excellent service. For a more rustic experience, eco-lodges near Kaziranga and Manas National Parks provide comfortable stays in the midst of nature.</p>
+        <p>Other notable accommodations include heritage hotels in Sivasagar, offering a glimpse into the state's rich history, and homestays in Majuli, where visitors can experience the local culture and hospitality.</p>
+    </section>
+
+    <section id="travel-tips">
+        <h2>Travel Tips</h2>
+        <p>Here are some tips to make your trip to Assam enjoyable:</p>
+        <ul>
+            <li>Best time to visit is between November and March, when the weather is pleasant and ideal for sightseeing.</li>
+            <li>Carry insect repellent if you are visiting wildlife sanctuaries to protect yourself from insects and mosquitoes.</li>
+            <li>Respect local customs and traditions. The Assamese people are known for their hospitality, and it is polite to follow their cultural norms.</li>
+            <li>Try local cuisine but be mindful of your dietary restrictions. Assamese food can be spicy, so it's best to ask about the ingredients if you have any food allergies.</li>
+            <li>Travel with sufficient cash as ATMs might not be available in remote areas. However, major cities and towns have good banking facilities.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; .</p>
+    </footer>
+</body>
+</html>
